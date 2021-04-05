@@ -16,7 +16,7 @@ email: "ashnayak@ucdavis.edu"
 highlight_name: false
 interests:
 - Marketing Research
-- Consumer Relationship Management
+- Consumer Journey
 - Campaign Optimization
 - Data Analytics
 - Reinforcement Learning
